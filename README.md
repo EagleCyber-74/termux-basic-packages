@@ -1,7 +1,7 @@
 
 #TERMUX BASIC PACKAGES 
 -------------------------------------------------
-pkg update -y
+```
 
 &&  pkg upgrade -y
 
@@ -101,4 +101,4 @@ pkg update -y
 
 &&pkg install macchanger -y
 
-&&apt update && apt upgrade -y
+&&apt update && apt upgrade -y```
